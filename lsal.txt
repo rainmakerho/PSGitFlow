@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x   4 rainmaker  staff  136  7  2 13:10 .
+drwxr-xr-x   4 rainmaker  staff  136  7  1 13:42 ..
+drwxr-xr-x  13 rainmaker  staff  442  7  2 13:09 .git
+-rw-r--r--   1 rainmaker  staff    0  7  2 13:10 lsal.txt
